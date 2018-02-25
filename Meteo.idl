@@ -1,0 +1,5 @@
+module MeteoApp{
+	interface Meteo{
+		string afficherBulletincourant();
+	};
+};
